@@ -32,7 +32,7 @@ public class Main {
 		}
 		
 
-		TelegramBot bot = TelegramBotAdapter.build("265431967:AAHx_JDEJHFcKKLRYJFMQ-voYet63ifjk_w");
+		TelegramBot bot = TelegramBotAdapter.build("Coloque aqui sua chave");
 
 		GetUpdatesResponse updatesResponse;
 
