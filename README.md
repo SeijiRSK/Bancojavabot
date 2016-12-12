@@ -1,2 +1,0 @@
-# Bancojavabot
-Trabalho final MBA
